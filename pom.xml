@@ -19,6 +19,7 @@
     <module>spring-boot-eureka</module>
     <module>spring-boot-eurekaclient</module>
     <module>spring-mysql</module>
+    <module>spring-boot-mysql</module>
   </modules>
 
   <name>spring-web Maven Webapp</name>
