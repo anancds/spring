@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 /**
  * <p></p>
@@ -14,6 +15,7 @@ import javax.persistence.Id;
  * modify by reason:{方法名}:{原因}
  */
 @Entity // This tells Hibernate to make a table out of this class
+@Table(name = "users")
 public class User {
 
   @Id
