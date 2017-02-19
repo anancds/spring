@@ -20,6 +20,8 @@
     <module>spring-boot-eurekaclient</module>
     <module>spring-mysql</module>
     <module>spring-boot-mysql</module>
+    <module>spring-boot-docker</module>
+    <module>spring-oauth</module>
   </modules>
 
   <name>spring-web Maven Webapp</name>
@@ -60,7 +62,6 @@
   </dependencyManagement>
 
   <build>
-    <finalName>spring-web</finalName>
     <plugins>
       <plugin>
         <groupId>org.springframework.boot</groupId>
