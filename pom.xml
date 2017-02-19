@@ -23,6 +23,7 @@
     <module>spring-boot-docker</module>
     <module>spring-oauth</module>
     <module>spring-boot-task</module>
+    <module>spring-boot-auth-ldap</module>
   </modules>
 
   <name>spring-web Maven Webapp</name>
@@ -36,7 +37,6 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
     <dependency>
