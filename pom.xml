@@ -25,6 +25,7 @@
     <module>spring-boot-task</module>
     <module>spring-boot-auth-ldap</module>
     <module>spring-boot-oauth2</module>
+    <module>spring-mongodb</module>
   </modules>
 
   <name>spring-web Maven Webapp</name>
