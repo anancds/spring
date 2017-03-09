@@ -10,7 +10,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>1.5.1.RELEASE</version>
+    <version>1.5.2.RELEASE</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
 
@@ -26,6 +26,7 @@
     <module>spring-boot-auth-ldap</module>
     <module>spring-boot-oauth2</module>
     <module>spring-mongodb</module>
+    <module>spring-boot-jpa</module>
   </modules>
 
   <name>spring-web Maven Webapp</name>
