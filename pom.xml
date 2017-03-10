@@ -26,8 +26,10 @@
     <module>spring-boot-auth-ldap</module>
     <module>spring-boot-oauth2</module>
     <module>spring-mongodb</module>
+    <module>spring-actuator</module>
     <module>spring-boot-jpa</module>
     <module>spring-boot-jpa-rest</module>
+    <module>spring-cache</module>
   </modules>
 
   <name>spring-web Maven Webapp</name>
